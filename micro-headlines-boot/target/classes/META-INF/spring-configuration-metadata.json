@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt.token",
+      "type": "com.thuwsy.headlines.utils.JwtHelper",
+      "sourceType": "com.thuwsy.headlines.utils.JwtHelper"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.token.token-expiration",
+      "type": "java.lang.Long",
+      "sourceType": "com.thuwsy.headlines.utils.JwtHelper"
+    },
+    {
+      "name": "jwt.token.token-sign-key",
+      "type": "java.lang.String",
+      "sourceType": "com.thuwsy.headlines.utils.JwtHelper"
+    }
+  ],
+  "hints": []
+}
